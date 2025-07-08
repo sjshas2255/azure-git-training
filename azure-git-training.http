@@ -1,0 +1,6 @@
+@azure_git_training_HostAddress = http://localhost:5200
+
+GET {{azure_git_training_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
